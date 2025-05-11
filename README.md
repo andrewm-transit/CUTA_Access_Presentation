@@ -27,6 +27,6 @@ Thanks for listening to my talk at CUTA. I've included the presentation and some
 **Statistics Canada Proximity Measures Database**
 If you're not able to start calculating access metrics for your projects, you can begin with work Statistics Canada produced nationwide. This data was updated most recently in 2023 and can help you to understand how your services met community demand when they were calculated. This can be a good baseline for you to begin to think about incorporating these types of measures into your work.
 
-(Statistics Canada Spatial Access Measures)[https://www150.statcan.gc.ca/n1/pub/27-26-0001/272600012023001-eng.htm]  
+[Statistics Canada Spatial Access Measures](https://www150.statcan.gc.ca/n1/pub/27-26-0001/272600012023001-eng.htm)
 
 See the examples folder for some products we've created in our projects. I'd love to learn more about how you have used these types of metrics in your work if you have examples you would share with me.
