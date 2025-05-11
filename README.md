@@ -29,7 +29,7 @@ If you're not able to start calculating access metrics for your projects, you ca
 
 [Statistics Canada Spatial Access Measures](https://www150.statcan.gc.ca/n1/pub/27-26-0001/272600012023001-eng.htm)
 
-**Further Reading**
+**Further Reading**  
 See the examples folder for some products we've created in our projects. I've also included a Python notebook showing how you can create areas to route from if you're starting to experiment with the routing tools.  
 
 To learn more about access measures in general, I recommend *Transport Access Manual: A Guide for Measuring Connection between People and Places* by The Committee of the Transport Access Manual. It's available online [here](https://transportist.org/transport-access-manual-a-guide-for-measuring-connection-between-people-and-places/).  
