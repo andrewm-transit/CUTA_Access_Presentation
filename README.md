@@ -3,6 +3,7 @@
 Thanks for listening to my talk at CUTA. I've included the presentation and some examples in this repository if you want to revisit some of the slides. Below are some of the resources that I find helpful in my work.
 
 
+
 ### Sources of location data  
 **OpenStreetMap**:  
 - [OpenStreetMap.org](http://openstreetmap.org)  
@@ -16,4 +17,16 @@ Thanks for listening to my talk at CUTA. I've included the presentation and some
 - [Valhalla](https://github.com/valhalla/valhalla): Valhalla is an actively developed and powerful tool, however running it is a bit more technical than running R5. You will have to set up a server or Docker container to run this an use the API to get results. This may be more complicated, but could have additional use cases beyond R5. You'll have to decide for yourself if running this will meet your needs. There are libaries that can  help incorporate this into a Python (or other) workflow. Third party providers can provide hosting/routing service if you choose to pay for a hosted version.  
 - [routingpy](https://github.com/nilsnolde/routingpy): This Python library allows you to connect to multiple routing services, including Valhalla providers) but also Google Maps and others. These are not free to use, though this may be a good tool to incorporate into your workflow if you choose to connect with hosted routing platforms.
 
-**Examples of Incorporating Access into Planning Projects**
+### Some Ways to Incorporate Access Measurement into Your Planning Projects
+- Equity analyses - go beyond simply measuring what kind of service is near different communities and measure what those communities can get to. This can be in the form of looking at the time to closest destinations, cumulative opportunities, or other metrics. Results can be reported for different population groups or geographically.
+- Service changes - quantify the impacts of your service changes across your service or in specific areas.
+- Key performance indicators - set targets for providing minimum levels of access to community members and then ensure you are delivering that.
+- Public engagement - use access metrics to communicate the value of projects to the community, decision-makers, community groups, and more. While service additions are easy to understand examples of changes in access, changes to network structure (e.g. towards a grid) and small improvements to travel time or reliability can drastically improve access. Improvements in one area of a network can have large positive (or negative) impacts in other areas. Understanding these impacts and communicating them to the public can help build buy in for projects.
+- Building support for transit more broadly - transit provides immense benefit to the community. Communicating that value to community groups, stakeholders, elected officials, business groups, and others can include measures of access. For example, you could communicate with large employers how many community members are within a commute distance from their job sites or communicate the number of potential customers who could ride transit to a group of businesses in an area.
+
+**Statistics Canada Proximity Measures Database**
+If you're not able to start calculating access metrics for your projects, you can begin with work Statistics Canada produced nationwide. This data was updated most recently in 2023 and can help you to understand how your services met community demand when they were calculated. This can be a good baseline for you to begin to think about incorporating these types of measures into your work.
+
+(Statistics Canada Spatial Access Measures)[https://www150.statcan.gc.ca/n1/pub/27-26-0001/272600012023001-eng.htm]  
+
+See the examples folder for some products we've created in our projects. I'd love to learn more about how you have used these types of metrics in your work if you have examples you would share with me.
